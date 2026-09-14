@@ -19,7 +19,6 @@
 # local
 .DS_Store
 *.pem
-.env*
 
 # Vercel
 .vercel
@@ -31,3 +30,4 @@
 
 # TypeScript
 *.tsbuildinfo
+config.bat
